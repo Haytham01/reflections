@@ -1,4 +1,1 @@
-Q/How did viewing a diff between two versions of a file help you see the bug that was introduced?
-A/will it did highlighted the differences between files so I could find it easily.
-
-
+empty
