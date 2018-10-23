@@ -1,10 +1,4 @@
 Q/How did viewing a diff between two versions of a file help you see the bug that was introduced?
 A/will it did highlighted the differences between files so I could find it easily.
 
-Q/How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-A/
- 1- I could go back to any version in case that I have messed up the project
- 2- it will help me to fix + detect errors
- 3- I could cancel any new features or updates so easy if I didn't like them
-
 
