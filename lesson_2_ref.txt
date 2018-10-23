@@ -1,0 +1,8 @@
+Q/What happens when you initialize a repository? Why do you need to do it?
+A/it will make .git file that stores versions-history plus marking the current directory as repository,
+I do need it so that I could return to older versions of my project and get the benifits of version-control. 
+
+Q/How is the staging area different from the working directory and the repository? What value do you think it offers?
+A/changes to files in the staging area will be saved,
+  while not all changes to files in the working directory or the repository will be saved,
+  this give us the ability to decide what changes to record and what not to.
